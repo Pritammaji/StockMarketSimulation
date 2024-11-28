@@ -1,0 +1,7 @@
+BUY: 10 shares of Tesla at $700.0
+BUY: 1 shares of Google at $2835.85
+SELL: 5 shares of Tesla at $703.13
+BUY: 4 shares of Apple at $131.39
+SELL: 3 shares of Apple at $132.28
+SELL: 4 shares of Tesla at $639.41
+SELL: 1 shares of Google at $2822.03
